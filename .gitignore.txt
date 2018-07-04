@@ -1,0 +1,7 @@
+bridge_evolution.ipynb
+Fractal_Gas_Evolution_old.ipynb
+
+
+
+*.csv
+*.log
